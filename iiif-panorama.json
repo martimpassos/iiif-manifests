@@ -1,0 +1,266 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/007A5P4FP04-021/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "pt-BR": [
+            "Bela Vista"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Title"
+                ],
+                "pt-BR": [
+                    "Título"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Bela Vista"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Creator"
+                ],
+                "pt-BR": [
+                    "Autor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Georges Leuzinger"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Date"
+                ],
+                "pt-BR": [
+                    "Data"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1865 circa"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Type"
+                ],
+                "pt-BR": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "en": [
+                    "<a class=\"uri-value-link\" target=\"_blank\" href=\"http://wikidata.org/wiki/Q125191\">Photograph</a>"
+                ],
+                "pt-BR": [
+                    "<a class=\"uri-value-link\" target=\"_blank\" href=\"http://wikidata.org/wiki/Q125191\">Fotografia</a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Materials"
+                ],
+                "pt-BR": [
+                    "Materiais"
+                ]
+            },
+            "value": {
+                "en": [
+                    "<a class=\"uri-value-link\" target=\"_blank\" href=\"http://wikidata.org/wiki/Q56055236\">Photographic print</a>"
+                ],
+                "pt-BR": [
+                    "<a class=\"uri-value-link\" target=\"_blank\" href=\"http://wikidata.org/wiki/Q56055236\">Fotografia em papel</a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Fabrication Method"
+                ],
+                "pt-BR": [
+                    "Método de Fabricação"
+                ]
+            },
+            "value": {
+                "en": [
+                    "<a class=\"uri-value-link\" target=\"_blank\" href=\"http://wikidata.org/wiki/Q172984\">Silver gelatin</a>"
+                ],
+                "pt-BR": [
+                    "<a class=\"uri-value-link\" target=\"_blank\" href=\"http://wikidata.org/wiki/Q172984\">Gelatina de prata</a>"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Hosting"
+            ],
+            "pt-BR": [
+                "Hospedagem"
+            ]
+        },
+        "value": {
+            "en": [
+                "Hosted by imagineRio"
+            ],
+            "pt-BR": [
+                "Hospedado por imagineRio"
+            ]
+        }
+    },
+    "rights": "http://rightsstatements.org/vocab/CNE/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/007A5P4FP04-021/full/567,430/0/default.jpg",
+            "type": "thumbnail",
+            "set_width": 567,
+            "set_height": 430
+        }
+    ],
+    "seeAlso": [
+        {
+            "id": "https://www.imaginerio.org/map#007A5P4FP04-021",
+            "type": "Text",
+            "label": {
+                "none": [
+                    "imagineRio"
+                ]
+            }
+        },
+        {
+            "id": "https://www.wikidata.org/wiki/Q97772914",
+            "type": "Text",
+            "label": {
+                "none": [
+                    "Wikidata"
+                ]
+            }
+        }
+    ],
+    "homepage": [
+        {
+            "id": "http://acervos.ims.com.br/portals/#/detailpage/79119",
+            "type": "Text",
+            "label": {
+                "none": [
+                    "Instituto Moreira Salles"
+                ]
+            },
+            "format": "text/html"
+        }
+    ],
+    "provider": [
+        {
+            "id": "https://imaginerio.org/",
+            "type": "Agent",
+            "label": {
+                "en": [
+                    "imagineRio"
+                ],
+                "pt-BR": [
+                    "imagineRio"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "http://acervos.ims.com.br/portals/#/detailpage/79119",
+                    "type": "Text",
+                    "label": {
+                        "none": [
+                            "Instituto Moreira Salles"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://aws1.discourse-cdn.com/free1/uploads/imaginerio/original/1X/8c4f71106b4c8191ffdcafb4edeedb6f6f58b482.png",
+                    "type": "Image",
+                    "format": "image/png",
+                    "set_width": 708,
+                    "set_height": 164
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/canvas/p1",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "007A5P4FP04-020/007A5P4FP04-021"
+                ]
+            },
+            "height": 6880,
+            "width": 9083,
+            "items": [
+                {
+                    "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/annotation-page/p1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/annotation/p1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/007A5P4FP04-021/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 6880,
+                                "width": 9083,
+                                "service": [
+                                    {
+                                        "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/007A5P4FP04-021/",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ]
+                            },
+                            "target": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/canvas/p1#xywh=0,650,9083,6880"
+                        },
+                        {
+                            "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/annotation/p1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/007A5P4FP04-020/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 6880,
+                                "width": 9083,
+                                "service": [
+                                    {
+                                        "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/007A5P4FP04-020/",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ]
+                            },
+                            "target": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/canvas/p1#xywh=7200,0,9064,6918"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
