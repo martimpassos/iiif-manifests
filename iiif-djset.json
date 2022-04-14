@@ -1,0 +1,622 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.io/ra-769-octo-octa/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "RA.769 Octo Octa"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Artist"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Octo Octa"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Date Issued"
+                ]
+            },
+            "value": {
+                "en": [
+                    "February 28th, 2021"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Publisher"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Resident Advisor"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.io/ra-769-octo-octa/canvas/1",
+            "type": "Canvas",
+            "duration": 3986.0,
+            "items": [
+                {
+                    "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1/annotation/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CUE,END",
+                            "body": {
+                                "id": "Back_Door_Revelations-Untitled.mp3",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": DURATION
+                            }
+                        },
+                        {
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1/annotation/2",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CUE,END",
+                            "body": {
+                                "id": "S-Naked-Now_I_Know_(Total_Re-Call_Dub).mp3",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": DURATION
+                            }
+                        },
+                        {
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1/annotation/3",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CUE,END",
+                            "body": {
+                                "id": "2_In_A_Room-Do_What_You_Want_(Morales_Deep_Dub_Mix).mp3",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": DURATION
+                            }
+                        },
+                        {
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1/annotation/4",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CUE,END",
+                            "body": {
+                                "id": "Earth_People-Reach_Up_To_Mars_(Martian_Mix).mp3",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": DURATION
+                            }
+                        },
+                        {
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1/annotation/5",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CUE,END",
+                            "body": {
+                                "id": "The_Chemical_Brothers-Morning Lemon.mp3",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": DURATION
+                            }
+                        },
+                        {
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1/annotation/6",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CUE,END",
+                            "body": {
+                                "id": "Decktition-Rise.mp3",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": DURATION
+                            }
+                        },
+                        {
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1/annotation/7",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CUE,END",
+                            "body": {
+                                "id": "Namby_Pamby-Girlz_(Queer_Mix_Parts_1_&_2).mp3",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": DURATION
+                            }
+                        },
+                        {
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1/annotation/8",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CUE,END",
+                            "body": {
+                                "id": "Deee-Lite - Pussycat Meow (Murk Boys Miami Mix)",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": DURATION
+                            }
+                        },
+                        {
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1/annotation/9",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CUE,END",
+                            "body": {
+                                "id": "M5 featuring Brad Raker - Sanctuary (Electroliners Remix)",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": DURATION
+                            }
+                        },
+                        {
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1/annotation/10",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CUE,END",
+                            "body": {
+                                "id": "Darshan - Give Me (Club Mix)",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": DURATION
+                            }
+                        },
+                        {
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1/annotation/11",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CUE,END",
+                            "body": {
+                                "id": "Lonnie Gordon - If You Really Love Me (Pumpin’ Dub)",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": DURATION
+                            }
+                        },
+                        {
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1/annotation/12",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CUE,END",
+                            "body": {
+                                "id": "Marascia - Party People",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": DURATION
+                            }
+                        },
+                        {
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1/annotation/13",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CUE,END",
+                            "body": {
+                                "id": "Movin’ Melodies - La Luna",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": DURATION
+                            }
+                        },
+                        {
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1/annotation/14",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CUE,END",
+                            "body": {
+                                "id": "Mato Grosso - Thunder (Marco Bondi Remix)",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": DURATION
+                            }
+                        },
+                        {
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1/annotation/15",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CUE,END",
+                            "body": {
+                                "id": "Johnny Fiasco - D-Motion",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": DURATION
+                            }
+                        },
+                        {
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1/annotation/16",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CUE,END",
+                            "body": {
+                                "id": "Temperance - Hipnonsense",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": DURATION
+                            }
+                        },
+                        {
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1/annotation/17",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CUE,END",
+                            "body": {
+                                "id": "B-Real - U Give Me Fever",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": DURATION
+                            }
+                        },
+                        {
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1/annotation/18",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CUE,END",
+                            "body": {
+                                "id": "Mother, Alpha, Delta - Body Action",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": DURATION
+                            }
+                        },
+                        {
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1/annotation/19",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CUE,END",
+                            "body": {
+                                "id": "Inner Tube - Pump Me Up! (Todd Tell Mash-on Mix)",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": DURATION
+                            }
+                        },
+                        {
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1/annotation_page/1/annotation/20",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CUE,END",
+                            "body": {
+                                "id": "Radicall - One Moon, One Star",
+                                "type": "Sound",
+                                "format": "audio/mp4",
+                                "duration": DURATION
+                            }
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://fixtures.iiif.io/video/indiana/donizetti-elixir/act1-thumbnail.png",
+                    "type": "Image"
+                }
+            ]
+        }
+    ],
+    "structures": [
+        {
+            "type": "Range",
+            "id": "https://iiif.io/ra-769-octo-octa/range/1",
+            "label": {
+                "en": [
+                    "RA.769 Octo Octa"
+                ]
+            },
+            "items": [
+                {
+                    "type": "Range",
+                    "id": "https://iiif.io/ra-769-octo-octa/range/2",
+                    "label": {
+                        "en": [
+                            "Back Door Revelations - Untitled"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Canvas",
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CANVASEND-LASTCANVASEND"
+                        }
+                    ]
+                },
+                {
+                    "type": "Range",
+                    "id": "https://iiif.io/ra-769-octo-octa/range/3",
+                    "label": {
+                        "en": [
+                            "S-Naked - Now I Know (Total Re-Call Dub)"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Canvas",
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CANVASEND-LASTCANVASEND"
+                        }
+                    ]
+                },
+                {
+                    "type": "Range",
+                    "id": "https://iiif.io/ra-769-octo-octa/range/4",
+                    "label": {
+                        "en": [
+                            "2 In A Room - Do What You Want (Morales Deep Dub Mix)"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Canvas",
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CANVASEND-LASTCANVASEND"
+                        }
+                    ]
+                },
+                {
+                    "type": "Range",
+                    "id": "https://iiif.io/ra-769-octo-octa/range/5",
+                    "label": {
+                        "en": [
+                            "Earth People - Reach Up To Mars (Martian Mix)"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Canvas",
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CANVASEND-LASTCANVASEND"
+                        }
+                    ]
+                },
+                {
+                    "type": "Range",
+                    "id": "https://iiif.io/ra-769-octo-octa/range/6",
+                    "label": {
+                        "en": [
+                            "The Chemical Brothers - Morning Lemon"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Canvas",
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CANVASEND-LASTCANVASEND"
+                        }
+                    ]
+                },
+                {
+                    "type": "Range",
+                    "id": "https://iiif.io/ra-769-octo-octa/range/7",
+                    "label": {
+                        "en": [
+                            "Decktition - Rise"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Canvas",
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CANVASEND-LASTCANVASEND"
+                        }
+                    ]
+                },
+                {
+                    "type": "Range",
+                    "id": "https://iiif.io/ra-769-octo-octa/range/8",
+                    "label": {
+                        "en": [
+                            "Namby Pamby - Girlz (Queer Mix Parts 1 & 2)"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Canvas",
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CANVASEND-LASTCANVASEND"
+                        }
+                    ]
+                },
+                {
+                    "type": "Range",
+                    "id": "https://iiif.io/ra-769-octo-octa/range/9",
+                    "label": {
+                        "en": [
+                            "Deee-Lite - Pussycat Meow (Murk Boys Miami Mix)"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Canvas",
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CANVASEND-LASTCANVASEND"
+                        }
+                    ]
+                },
+                {
+                    "type": "Range",
+                    "id": "https://iiif.io/ra-769-octo-octa/range/10",
+                    "label": {
+                        "en": [
+                            "M5 featuring Brad Raker - Sanctuary (Electroliners Remix)"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Canvas",
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CANVASEND-LASTCANVASEND"
+                        }
+                    ]
+                },
+                {
+                    "type": "Range",
+                    "id": "https://iiif.io/ra-769-octo-octa/range/11",
+                    "label": {
+                        "en": [
+                            "Darshan - Give Me (Club Mix)"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Canvas",
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CANVASEND-LASTCANVASEND"
+                        }
+                    ]
+                },
+                {
+                    "type": "Range",
+                    "id": "https://iiif.io/ra-769-octo-octa/range/12",
+                    "label": {
+                        "en": [
+                            "Lonnie Gordon - If You Really Love Me (Pumpin’ Dub)"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Canvas",
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CANVASEND-LASTCANVASEND"
+                        }
+                    ]
+                },
+                {
+                    "type": "Range",
+                    "id": "https://iiif.io/ra-769-octo-octa/range/13",
+                    "label": {
+                        "en": [
+                            "Marascia - Party People"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Canvas",
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CANVASEND-LASTCANVASEND"
+                        }
+                    ]
+                },
+                {
+                    "type": "Range",
+                    "id": "https://iiif.io/ra-769-octo-octa/range/14",
+                    "label": {
+                        "en": [
+                            "Movin’ Melodies - La Luna"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Canvas",
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CANVASEND-LASTCANVASEND"
+                        }
+                    ]
+                },
+                {
+                    "type": "Range",
+                    "id": "https://iiif.io/ra-769-octo-octa/range/15",
+                    "label": {
+                        "en": [
+                            "Mato Grosso - Thunder (Marco Bondi Remix)"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Canvas",
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CANVASEND-LASTCANVASEND"
+                        }
+                    ]
+                },
+                {
+                    "type": "Range",
+                    "id": "https://iiif.io/ra-769-octo-octa/range/16",
+                    "label": {
+                        "en": [
+                            "Johnny Fiasco - D-Motion"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Canvas",
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CANVASEND-LASTCANVASEND"
+                        }
+                    ]
+                },
+                {
+                    "type": "Range",
+                    "id": "https://iiif.io/ra-769-octo-octa/range/17",
+                    "label": {
+                        "en": [
+                            "Temperance - Hipnonsense"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Canvas",
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CANVASEND-LASTCANVASEND"
+                        }
+                    ]
+                },
+                {
+                    "type": "Range",
+                    "id": "https://iiif.io/ra-769-octo-octa/range/18",
+                    "label": {
+                        "en": [
+                            "B-Real - U Give Me Fever"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Canvas",
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CANVASEND-LASTCANVASEND"
+                        }
+                    ]
+                },
+                {
+                    "type": "Range",
+                    "id": "https://iiif.io/ra-769-octo-octa/range/19",
+                    "label": {
+                        "en": [
+                            "Mother, Alpha, Delta - Body Action"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Canvas",
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CANVASEND-LASTCANVASEND"
+                        }
+                    ]
+                },
+                {
+                    "type": "Range",
+                    "id": "https://iiif.io/ra-769-octo-octa/range/20",
+                    "label": {
+                        "en": [
+                            "Inner Tube - Pump Me Up! (Todd Tell Mash-on Mix)"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Canvas",
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CANVASEND-LASTCANVASEND"
+                        }
+                    ]
+                },
+                {
+                    "type": "Range",
+                    "id": "https://iiif.io/ra-769-octo-octa/range/21",
+                    "label": {
+                        "en": [
+                            "Radicall - One Moon, One Star"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Canvas",
+                            "id": "https://iiif.io/ra-769-octo-octa/canvas/1#t=CANVASEND-LASTCANVASEND"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
