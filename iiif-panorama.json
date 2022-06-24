@@ -211,8 +211,8 @@
                     "007A5P4FP04-020/007A5P4FP04-021"
                 ]
             },
-            "height": 6880,
-            "width": 9083,
+            "height": 13798,
+            "width": 18147,
             "items": [
                 {
                     "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/annotation-page/p1",
@@ -246,8 +246,8 @@
                                 "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/007A5P4FP04-020/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 6880,
-                                "width": 9083,
+                                "height": 6918,
+                                "width": 9064,
                                 "service": [
                                     {
                                         "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/007A5P4FP04-020/",
