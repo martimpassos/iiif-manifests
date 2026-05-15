@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/007A5P4FP04-021/manifest.json",
+    "id": "https://raw.githubusercontent.com/martimpassos/iiif-manifests/refs/heads/main/iiif-panorama.json",
     "type": "Manifest",
     "label": {
         "pt-BR": [
@@ -204,7 +204,7 @@
     ],
     "items": [
         {
-            "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/canvas/p1",
+            "id": "https://raw.githubusercontent.com/martimpassos/iiif-manifests/refs/heads/main/iiif-panorama/canvas/p1",
             "type": "Canvas",
             "label": {
                 "none": [
@@ -215,7 +215,7 @@
             "width": 16500,
             "items": [
                 {
-                    "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/annotation-page/p1",
+                    "id": "https://raw.githubusercontent.com/martimpassos/iiif-manifests/refs/heads/main/iiif-panorama/annotation-page/p1",
                     "type": "AnnotationPage",
                     "items": [
                         {
@@ -223,40 +223,40 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/007A5P4FP04-021/full/max/0/default.jpg",
+                                "id": "https://iiif.imaginerio.org/iiif/32483422/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 6880,
                                 "width": 9083,
                                 "service": [
                                     {
-                                        "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/007A5P4FP04-021/",
+                                        "id": "https://iiif.imaginerio.org/iiif/32483422",
                                         "type": "ImageService3",
                                         "profile": "level0"
                                     }
                                 ]
                             },
-                            "target": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/canvas/p1#xywh=0,650,9083,6880"
+                            "target": "https://raw.githubusercontent.com/martimpassos/iiif-manifests/refs/heads/main/iiif-panorama/canvas/p1#xywh=0,650,9083,6880"
                         },
                         {
                             "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/annotation/p1",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/007A5P4FP04-020/full/max/0/default.jpg",
+                                "id": "https://iiif.imaginerio.org/iiif/32483421/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 6918,
                                 "width": 9064,
                                 "service": [
                                     {
-                                        "id": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/007A5P4FP04-020/",
+                                        "id": "https://iiif.imaginerio.org/iiif/32483421/",
                                         "type": "ImageService3",
                                         "profile": "level0"
                                     }
                                 ]
                             },
-                            "target": "https://imaginerio-images.s3.us-east-1.amazonaws.com/iiif/canvas/p1#xywh=7200,0,9064,6918"
+                            "target": "https://raw.githubusercontent.com/martimpassos/iiif-manifests/refs/heads/main/iiif-panorama/canvas/p1#xywh=7200,0,9064,6918"
                         }
                     ]
                 }
